@@ -1,0 +1,922 @@
+@media(min-width:1025px) and (max-width:1200px){
+
+	.main-slider-wrp .slider-img img{height: 55vh;}
+	.main-slider-wrp .slider-block .slider-dt{top: 38%;left: 0;}
+	.main-slider-wrp .slider-block .slider2-dt{top: 28%;left: 38%;}
+	.main-slider-wrp .slider-block .slider3-dt{bottom: auto;top: 43%;}
+	.main-slider-wrp .slider-block .slider4-dt{bottom: auto;left: 0;top: 32%;}
+	.titlebar h2{font-size: 32px;margin: 0 auto;display: table;}
+
+	/* **** product **** */
+	.grohe-title h2{font-size: 38px;text-align: center;}
+	.product-dt{margin: 0 0 50px;}
+
+	/* **** Map **** */
+	/*.map-wrp .map-img{height: auto;padding: 30px 15px;}*/
+	.map-wrp .map-img .map-dt{width: 60%;background: #f7f7f7;padding: 15px;}
+	.map-wrp .map-img .map-dt h2{font-size:40px;text-align: center;}
+	/* **** End Map **** */
+	/* ***** ***** */
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: auto;}
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: 445px;margin: 0 0 30px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt h2{    font-size: 27px;line-height: 42px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt{width: 80%;}
+
+
+	.stripe-wrp .stripe-smallbox .stripe-dt{width: 90%;left: 15px;}
+
+	/* **** Footer **** */
+	.footer-wrp .quicklink h3{margin: 0 0 10px;}
+	.footer-wrp .quicklink{margin: 20px 0 0;}
+	.copyright svg {float: none;margin: 25px auto 0;display: table;}
+	.copyright .footer-navigation{margin: 0 auto;display: table;text-align: center;}
+	.copyright .footer-navigation li a{font-size: 12px;}
+	.copyright .footer-navigation li span{font-size: 12px;}
+	/* **** End Footer **** */
+
+	/* **** Product Page **** */
+	.siderbar-fix a{display: none;}
+	.product-overview .title-bx{padding: 60px 0 10px;}
+	.product-overview .title-bx h1{font-size: 24px;font-weight: 600;}
+	.product-overview .overview-left #accordion{margin: 20px 0 0;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li{float: none;width: 100%;}
+	.checkbox-wrp{font-size: 16px;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li:last-child{width: 100%;margin: 15px 0 0;}
+	.text{top: 100%;}
+	.top-rightbar h2{font-size: 22px;}
+	.overview-img{height: 250px;}
+	/* **** End Product Page **** */
+
+	/* **** Details **** */
+	.details-wrp .title-bix h2{font-size: 38px;margin: 50px 0 0;}
+	.product-box span i{height: 30px;width: 30px;line-height: 30px;}
+	.product-box a{font-size: 16px;}
+	/* **** End Details **** */
+
+	/* **** Contact **** */
+	.title02 h1{font-size: 28px;}
+	.title02 p{font-size: 16px;}
+	.contact-wrp .title02 h3{font-size: 20px;}
+	.contact-wrp .title02 a{font-size: 16px;}
+	.contact-wrp .message-wrp{padding: 25px 0 0;}
+	.contact-wrp label{font-size: 16px;}
+	.frm-box{width: 70%;}
+	.Security-sec .Security-block{width: 70%;}
+	.showroom-locator h3{font-size: 24px;}
+	.showroom-locator .addresh-dt p{font-size: 16px;}
+	.showroom-locator .contact-dt p{font-size: 16px;}
+	.navbar .megamenu a h5{font-size: 16px;}
+	.navbar .megamenu .dropdown-item{font-size: 12px;}
+	/* **** End Contact **** */
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 32px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 16px;}
+	/* **** End errorpage **** */
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 28px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 15px;}
+	/* **** End errorpage **** */
+
+	/* **** grohe-blue-pure-filtered-water **** */
+	.inner-banner-wrp img{height: 350px;}
+	.filtered-wrp .owl-dot span{width: 26px;}
+	.sigal-lever-mixer .text{top: 93%;}
+	.temperature-slider .tem-dt h2{font-size: 24px;margin: 15px auto 10px;}
+	.temperature-slider .tem-dt p{font-size: 14px;}
+	.temperature-slider-two .item{margin: 15px;}
+	/* **** End grohe-blue-pure-filtered-water **** */
+
+	/* **** Accuracy **** */
+	.accuracy-wrp{padding: 0;}
+	.title h3{font-size: 22px;line-height: 28px;}
+	.title p{font-size: 14px;}
+	.accuracy-wrp .acc-block .acc-dt h2{font-size: 20px;margin: 15px 0 10px;}
+	.accuracy-wrp .acc-block .acc-dt p{font-size: 14px;}
+	.title-plue h1{font-size: 24px;}
+	.video-block h3{font-size: 18px;}
+	.titleshap1 h2{font-size: 24px;}
+	.product-range-wrp .product-range-block .nav-tabs{padding: 00px;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-link{font-size: 16px;padding: 0 10px 5px;}
+	.product-range-block .text{top: 100%;}
+	.text h2{font-size: 16px;}
+	.text p{font-size: 14px;}
+	.showroom-wrp .showroom-block h2{text-align: center;}
+	.download-wrp .download-dt h2{font-size:17px;}
+	.download-wrp .download-dt a{padding: 8px 16px;}
+	.product-range-block .text{top: 82%;}
+	/* **** End Accuracy **** */
+
+	/* **** inpirations **** */
+	.inpirations-box .inpirations-img .img-dt{bottom: 0;}
+	.inpirations-box .inpirations-img .img-dt h3{font-size: 28px;}
+	.inpirations-box .inpirations-img .img-dt h4{font-size: 18px;}
+	.inpirations-dt a{font-size: 16px;}
+	/* **** End inpirations **** */
+
+	/* **** masters-of-technology **** */
+	.inner-banner01-wrp .banner-dt{left: 10%;}
+	.masters-dt h1{font-size: 28px;}
+	.masters-dt p{font-size: 16px;}
+	.masters-block ul li a{font-size: 16px;}
+	/* **** End masters-of-technology **** */
+
+	/* **** newsletter **** */
+	.newsletter-block .form-group{display: block !important;}
+	.newsletter-block .container{font-size: 16px;}
+	.titlebar01 p{font-size: 16px;}
+	.data-box{width: 100%;}
+	.newsletter-block p{font-size: 16px;}
+	/* **** newsletter **** */
+
+	/* **** notepad ***** */
+	.notepad-wrp .title03 h1{font-size: 24px;}
+	.notepad-wrp .title03 h4{font-size: 18px;}
+	.notepad-wrp .title03 p{font-size: 14px;}
+	.notepad-wrp .notped-block .nottitle h2 {font-size: 24px;}
+	.notepad-wrp .notped-block .nottitle h2 img{height: 30px;width: 30px;right: 0;}
+	.notepad-wrp .notped-block .nottitle h2 span{margin: 0;}
+	.notefrm .form-group .form-control{width: 50%;margin:0 20px;}
+	#myModal .modal-dialog .mad-dt p{font-size: 14px;}
+	#myModal .modal-dialog .modal-content .btn-group{float: none;display: block;}
+	#myModal .modal-dialog .modal-content .btn-group .Reset-btn{display: table;margin: 0 0 20px;}
+	.functionality .functionality-block .functionality-box{padding: 15px;}
+	.functionality .functionality-block .functionality-box h4{font-size: 18px;}
+	.functionality .functionality-block .functionality-box p{font-size: 16px;}
+	/* **** End notepad ***** */
+
+	/* **** references **** */
+	.teaser-promo .teaser-promo-img img{height:340px;}
+	.teaser-promo-dt{top: 16px;left: 16px;}
+	.teaser-promo-dt p{font-size: 20px;}
+	.teaser-promo-dt h4{font-size: 32px;}
+	/* **** End references **** */
+
+	/* **** Tapware **** */
+	.inner-banner-wrp .banner-dt h2{font-size: 24px;}
+	.innertitle h1{font-size: 24px;}
+	.product-wrp .product-block .product-dt h4{font-size: 26px;}
+	/* **** End Tapware **** */
+
+	/* ***** Touchless-faucets ***** */
+	.touchless-wrp .touch-dt p{font-size: 14px;margin: 10px 0;}
+	.sdt p{font-size:16px;}
+	.hygienic-block .titlebar h1{font-size: 24px;}
+	.hygienic-block p{font-size: 16px;}
+	.sdt h1{font-size: 24px;}
+	/* ***** End Touchless-faucets ***** */
+
+	/* **** About **** */
+	.about-wrp .about-banner img{height: 70vh;object-fit: cover;}
+	.abt-dt{padding: 0 0 40px;}
+	.abt-dt p{font-size: 14px;}
+	.touchless-wrp .touch-img img{width: 100%;}
+	.about-wrp .innertitle p{font-size: 14px;}
+	/* **** About **** */
+
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	.top-bar{display: none;}
+	.navbar{display: none;}
+	.moblie-menu{display: block;}
+	.side-nav-wrp .small-navbar{border-top: 1px solid rgba(255,255,255,0.3);padding:15px 0 0;}
+
+	.main-slider-wrp .slider-img img{height: 55vh;}
+	.main-slider-wrp .slider-block .slider-dt{top: 38%;left: 0;}
+	.main-slider-wrp .slider-block .slider2-dt{top: 28%;left: 38%;}
+	.main-slider-wrp .slider-block .slider3-dt{bottom: auto;top: 43%;}
+	.main-slider-wrp .slider-block .slider4-dt{bottom: auto;left: 0;top: 32%;}
+	.titlebar h2{font-size: 32px;margin: 0 auto;display: table;}
+
+	/* **** product **** */
+	.grohe-title h2{font-size: 38px;text-align: center;}
+	.product-dt{margin: 0 0 50px;}
+
+	/* **** Map **** */
+	/*.map-wrp .map-img{height: auto;padding: 30px 15px;}*/
+	.map-wrp .map-img .map-dt{width: 60%;background: #f7f7f7;padding: 15px;}
+	.map-wrp .map-img .map-dt h2{font-size:40px;text-align: center;}
+	/* **** End Map **** */
+	/* ***** ***** */
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: auto;}
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: 430px;margin: 0 0 30px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt h2{    font-size: 27px;line-height: 42px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt{width: 80%;}
+
+
+	.stripe-wrp .stripe-smallbox .stripe-dt{width: 90%;left: 15px;}
+
+	/* **** Footer **** */
+	.footer-wrp .quicklink h3{margin: 0 0 10px;}
+	.footer-wrp .quicklink{margin: 20px 0 0;}
+	.copyright svg {float: none;margin: 25px auto 0;display: table;}
+	.copyright .footer-navigation{margin: 0 auto;display: table;text-align: center;}
+	.copyright .footer-navigation li a{font-size: 12px;}
+	.copyright .footer-navigation li span{font-size: 12px;}
+	/* **** End Footer **** */
+
+	/* **** Product Page **** */
+	.siderbar-fix a{display: none;}
+	.product-overview .title-bx{padding: 60px 0 10px;}
+	.product-overview .title-bx h1{font-size: 24px;font-weight: 600;}
+	.product-overview .overview-left #accordion{margin: 20px 0 0;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li{float: none;width: 100%;}
+	.checkbox-wrp{font-size: 16px;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li:last-child{width: 100%;margin: 15px 0 0;}
+	.text{top: 100%;}
+	.top-rightbar h2{font-size: 22px;}
+	.overview-img{height: 250px;}
+	/* **** End Product Page **** */
+
+	/* **** Details **** */
+	.details-wrp .title-bix h2{font-size: 38px;margin: 50px 0 0;}
+	.product-box span i{height: 30px;width: 30px;line-height: 30px;}
+	.product-box a{font-size: 16px;}
+	/* **** End Details **** */
+
+	/* **** Contact **** */
+	.main-wrp{padding:73px 0 0; }
+	.title02 h1{font-size: 24px;}
+	.title02 p{font-size: 16px;}
+	.contact-wrp .title02 h3{font-size: 20px;}
+	.contact-wrp .title02 a{font-size: 16px;}
+	.contact-wrp .message-wrp{padding: 25px 0 0;}
+	.contact-wrp label{font-size: 16px;}
+	.frm-box{width: 70%;}
+	.Security-sec .Security-block{width: 70%;}
+	.showroom-locator h3{font-size: 24px;}
+	.showroom-locator .addresh-dt p{font-size: 16px;}
+	.showroom-locator .contact-dt p{font-size: 16px;}
+	/* **** End Contact **** */
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 32px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 16px;}
+	/* **** End errorpage **** */
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 28px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 15px;}
+	/* **** End errorpage **** */
+
+	/* **** grohe-blue-pure-filtered-water **** */
+	.inner-banner-wrp img{height: 350px;}
+	.filtered-wrp .owl-dot span{width: 26px;}
+	.sigal-lever-mixer .text{top: 93%;}
+	.temperature-slider .tem-dt h2{font-size: 24px;margin: 15px auto 10px;}
+	.temperature-slider .tem-dt p{font-size: 14px;}
+	.temperature-slider-two .item{margin: 15px;}
+	/* **** End grohe-blue-pure-filtered-water **** */
+
+	/* **** Accuracy **** */
+	.accuracy-wrp{padding: 0;}
+	.title h3{font-size: 22px;line-height: 28px;}
+	.title p{font-size: 14px;}
+	.accuracy-wrp .acc-block .acc-dt h2{font-size: 20px;margin: 15px 0 10px;}
+	.accuracy-wrp .acc-block .acc-dt p{font-size: 14px;}
+	.title-plue h1{font-size: 24px;}
+	.video-block h3{font-size: 18px;}
+	.titleshap1 h2{font-size: 24px;}
+	.product-range-wrp .product-range-block .nav-tabs{padding: 00px;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-link{font-size: 16px;padding: 0 10px 5px;}
+	.product-range-block .text{top: 100%;}
+	.text h2{font-size: 16px;}
+	.text p{font-size: 14px;}
+	.showroom-wrp .showroom-block h2{text-align: center;}
+	.download-wrp .download-dt h2{font-size:17px;}
+	.download-wrp .download-dt a{padding: 8px 16px;}
+	/* **** End Accuracy **** */
+
+	/* **** inpirations **** */
+	.inpirations-box .inpirations-img .img-dt{bottom: 0;}
+	.inpirations-box .inpirations-img .img-dt h3{font-size: 29px;}
+	.inpirations-box .inpirations-img .img-dt h4{font-size: 18px;}
+	.inpirations-dt a{font-size: 16px;}
+	/* **** End inpirations **** */
+
+	/* **** masters-of-technology **** */
+	.inner-banner01-wrp .banner-dt{left: 10%;}
+	.masters-dt h1{font-size: 28px;}
+	.masters-dt p{font-size: 16px;}
+	.masters-block ul li a{font-size: 16px;}
+	/* **** End masters-of-technology **** */
+
+	/* **** newsletter **** */
+	.newsletter-block .form-group{display: block !important;}
+	.newsletter-block .container{font-size: 16px;}
+	.titlebar01 p{font-size: 16px;}
+	.data-box{width: 100%;}
+	.newsletter-block p{font-size: 16px;}
+	/* **** newsletter **** */
+
+	/* **** notepad ***** */
+	.notepad-wrp .title03 h1{font-size: 24px;}
+	.notepad-wrp .title03 h4{font-size: 18px;}
+	.notepad-wrp .title03 p{font-size: 14px;}
+	.notepad-wrp .notped-block .nottitle h2 {font-size: 24px;}
+	.notepad-wrp .notped-block .nottitle h2 img{height: 30px;width: 30px;right: 0;}
+	.notepad-wrp .notped-block .nottitle h2 span{margin: 0;}
+	.notefrm .form-group .form-control{width: 50%;margin:0 20px;}
+	#myModal .modal-dialog .mad-dt p{font-size: 14px;}
+	#myModal .modal-dialog .modal-content .btn-group{float: none;display: block;}
+	#myModal .modal-dialog .modal-content .btn-group .Reset-btn{display: table;margin: 0 0 20px;}
+	.functionality .functionality-block .functionality-box{padding: 15px;}
+	.functionality .functionality-block .functionality-box h4{font-size: 18px;}
+	.functionality .functionality-block .functionality-box p{font-size: 16px;}
+	/* **** End notepad ***** */
+
+	/* **** references **** */
+	.references-frm-block ul li{width: 25%;}
+	.teaser-promo-dt{top: 10px;left: 10px;}
+	.teaser-promo-dt p{font-size: 18px;}
+	.teaser-promo-dt h4{font-size: 28px;}
+	/* **** End references **** */
+
+	/* **** Tapware **** */
+	.inner-banner-wrp .banner-dt{bottom: 250px;}
+	.inner-banner-wrp .banner-dt h2{font-size: 24px;}
+	.innertitle h1{font-size: 24px;}
+	.product-wrp .product-block .product-dt h4{font-size: 26px;}
+	/* **** End Tapware **** */
+
+	/* ***** Touchless-faucets ***** */
+	.touchless-wrp .touch-dt p{font-size: 14px;margin: 10px 0;}
+	.sdt p{font-size:16px;}
+	.hygienic-block .titlebar h1{font-size: 24px;}
+	.hygienic-block p{font-size: 16px;}
+	.sdt h1{font-size: 24px;}
+	/* ***** End Touchless-faucets ***** */
+
+	/* **** About **** */
+	.about-wrp .about-banner img{height: 50vh;object-fit: cover;}
+	.abt-dt{padding: 0 0 40px;}
+	.abt-dt p{font-size: 14px;}
+	.touchless-wrp .touch-img img{width: 100%;}
+	.about-wrp .innertitle p{font-size: 14px;}
+	/* **** About **** */
+}
+
+@media(min-width:768px) and (max-width:991px){
+	.top-bar{display: none;}
+	.navbar{display: none;}
+	.moblie-menu{display: block;}
+	.side-nav-wrp .small-navbar{border-top: 1px solid rgba(255,255,255,0.3);padding:15px 0 0;}
+
+	.main-slider-wrp .slider-img img{height: 55vh;}
+	.main-slider-wrp .slider-block .slider-dt{top: 38%;left: 0;}
+	.main-slider-wrp .slider-block .slider2-dt{top: 28%;left: 38%;}
+	.main-slider-wrp .slider-block .slider3-dt{bottom: auto;top: 43%;}
+	.main-slider-wrp .slider-block .slider4-dt{bottom: auto;left: 0;top: 32%;}
+	.titlebar h2{font-size: 32px;margin: 0 auto;display: table;}
+
+	/* **** product **** */
+	.grohe-title h2{font-size: 38px;text-align: center;}
+	.product-dt{margin: 0 0 50px;}
+
+	/* **** Map **** */
+	/*.map-wrp .map-img{height: auto;padding: 30px 15px;}*/
+	.map-wrp .map-img .map-dt{width: 60%;background: #f7f7f7;padding: 15px;}
+	.map-wrp .map-img .map-dt h2{font-size:40px;text-align: center;}
+	/* **** End Map **** */
+	/* ***** ***** */
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: auto;}
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: 335px;margin: 0 0 30px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt h2{font-size: 20px;line-height: 33px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt .slider-btn{padding: 10px 30px;display: block;text-align: center;}
+	.stripe-wrp .stripe-bigbox .stripe-dt{width: 80%;}
+
+
+	.stripe-wrp .stripe-smallbox .stripe-dt{width: 90%;left: 15px;}
+
+	/* **** Footer **** */
+	.footer-wrp .quicklink h3{margin: 0 0 10px;}
+	.footer-wrp .quicklink{margin: 20px 0 0;}
+	.copyright svg {float: none;margin: 25px auto 0;display: table;}
+	.copyright .footer-navigation{margin: 0 auto;display: table;text-align: center;}
+	.copyright .footer-navigation li a{font-size: 12px;}
+	.copyright .footer-navigation li span{font-size: 12px;}
+	/* **** End Footer **** */
+	
+	/* **** Product Page **** */
+	.siderbar-fix a{display: none;}
+	.product-overview .title-bx{padding: 60px 0 10px;}
+	.product-overview .title-bx h1{font-size: 24px;font-weight: 600;}
+	.product-overview .overview-left #accordion{margin: 20px 0 0;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li{float: none;width: 100%;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li:last-child{width: 100%;margin: 15px 0 0;}
+	.text{top: 100%;}
+	.top-rightbar h2{font-size: 22px;}
+	.overview-img{height: 250px;}
+	/* **** End Product Page **** */
+
+	/* **** Details **** */
+	.details-wrp .title-bix h2{font-size: 38px;margin: 50px 0 0;}
+	.product-box span i{height: 30px;width: 30px;line-height: 30px;}
+	.product-box a{font-size: 15px;}
+	/* **** End Details **** */
+
+	/* **** Contact **** */
+	.main-wrp{padding:73px 0 0; }
+	.title02 h1{font-size: 24px;}
+	.title02 p{font-size: 16px;}
+	.contact-wrp .title02 h3{font-size: 20px;}
+	.contact-wrp .title02 a{font-size: 16px;}
+	.contact-wrp .message-wrp{padding: 25px 0 0;}
+	.contact-wrp label{font-size: 16px;}
+	.frm-box{width: 100%;}
+	.Security-sec .Security-block{width: 100%;}
+	.showroom-locator h3{font-size: 24px;}
+	.showroom-locator .addresh-dt p{font-size: 16px;}
+	.showroom-locator .contact-dt p{font-size: 16px;}
+	/* **** End Contact **** */
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 28px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 15px;}
+	/* **** End errorpage **** */
+
+	/* **** FAQ **** */
+	.faq-wrp .titlebar p{font-size: 16px;}
+	.faq-wrp .panel-title a{font-size: 16px;padding: 15px 40px 15px 0;}
+	.faq-wrp .panel-body p{font-size: 16px;}
+	/* **** End FAQ **** */
+
+	/* **** grohe-blue-pure-filtered-water **** */
+	.inner-banner-wrp img{height: 350px;}
+	.filtered-wrp .owl-dot span{width: 26px;}
+	.sigal-lever-mixer .text{top: 93%;}
+	.temperature-slider .tem-dt h2{font-size: 24px;margin: 15px auto 10px;}
+	.temperature-slider .tem-dt p{font-size: 14px;}
+	.temperature-slider-two .item{margin: 15px;}
+	/* **** End grohe-blue-pure-filtered-water **** */
+
+	/* **** Accuracy **** */
+	.accuracy-wrp{padding: 0;}
+	.title h3{font-size: 22px;line-height: 28px;}
+	.title p{font-size: 14px;}
+	.accuracy-wrp .acc-block .acc-dt h2{font-size: 20px;margin: 15px 0 10px;}
+	.accuracy-wrp .acc-block .acc-dt p{font-size: 14px;}
+	.title-plue h1{font-size: 24px;}
+	.video-block h3{font-size: 18px;}
+	.titleshap1 h2{font-size: 24px;}
+	.product-range-wrp .product-range-block .nav-tabs{padding: 0px;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-link{font-size: 16px;padding: 0 10px 5px;}
+	.product-range-block .text{top: 90%;}
+	.text h2{font-size: 18px;}
+	.text p{font-size: 14px;}
+	.showroom-wrp .showroom-block h2{text-align: center;}
+	.download-wrp .download-dt h2{font-style: 18px;}
+	/* **** End Accuracy **** */
+
+	/* **** inpirations **** */
+	.inpirations-box .inpirations-img .img-dt{bottom: 0;}
+	.inpirations-box .inpirations-img .img-dt h3{font-size: 26px;}
+	.inpirations-box .inpirations-img .img-dt h4{font-size: 16px;}
+	.inpirations-dt a{font-size: 16px;}
+	/* **** End inpirations **** */
+
+	/* **** masters-of-technology **** */
+	.inner-banner01-wrp .banner-dt{left: 10%;}
+	.masters-dt h1{font-size: 28px;}
+	.masters-dt p{font-size: 16px;}
+	.masters-block ul li a{font-size: 16px;}
+	/* **** End masters-of-technology **** */
+
+	/* **** newsletter **** */
+	.newsletter-block .form-group{display: block !important;}
+	.newsletter-block .container{font-size: 14px;}
+	.titlebar01 p{font-size: 14px;}
+	.data-box{width: 100%;}
+	.newsletter-block p{font-size: 14px;}
+	/* **** newsletter **** */
+
+	/* **** notepad ***** */
+	.notepad-wrp .title03 h1{font-size: 24px;}
+	.notepad-wrp .title03 h4{font-size: 18px;}
+	.notepad-wrp .title03 p{font-size: 14px;}
+	.notepad-wrp .notped-block .nottitle h2 {font-size: 24px;}
+	.notepad-wrp .notped-block .nottitle h2 img{height: 30px;width: 30px;right: 0;}
+	.notepad-wrp .notped-block .nottitle h2 span{margin: 0;}
+	.notefrm .form-group{display: block;}
+	.notefrm .form-group .form-control{width: 100%;margin: 30px 0;}
+	#myModal .modal-dialog .mad-dt p{font-size: 14px;}
+	#myModal .modal-dialog .modal-content .btn-group{float: none;display: block;}
+	#myModal .modal-dialog .modal-content .btn-group .Reset-btn{display: table;margin: 0 0 20px;}
+	/* **** End notepad ***** */
+
+	/* **** references **** */
+	.references-frm-block ul li{width: 50%;}
+	.teaser-promo .teaser-promo-img img{height: 240px;}
+	.teaser-promo-dt{top: 10px;left: 10px;}
+	.teaser-promo-dt p{font-size: 18px;}
+	.teaser-promo-dt h4{font-size: 28px;}
+	/* **** End references **** */
+
+	/* **** Tapware **** */
+	.inner-banner-wrp .banner-dt{bottom: 250px;}
+	.inner-banner-wrp .banner-dt h2{font-size: 24px;}
+	.innertitle h1{font-size: 24px;}
+	.product-wrp .product-block .product-dt h4{font-size: 20px;}
+	/* **** End Tapware **** */
+
+	/* ***** Touchless-faucets ***** */
+	.touchless-wrp .touch-dt p{font-size: 14px;margin: 10px 0;}
+	.sdt p{font-size:16px;}
+	.hygienic-block .titlebar h1{font-size: 24px;}
+	.hygienic-block p{font-size: 16px;}
+	.sdt h1{font-size: 24px;}
+	/* ***** End Touchless-faucets ***** */
+
+	/* **** About **** */
+	.about-wrp .about-banner img{height: 50vh;object-fit: cover;}
+	.abt-dt{padding: 0 0 40px;}
+	.abt-dt p{font-size: 14px;}
+	.touchless-wrp .touch-img img{width: 100%;}
+	/* **** About **** */
+}
+
+@media(min-width:448px) and (max-width:767px){
+	.top-bar{display: none;}
+	.navbar{display: none;}
+	.moblie-menu{display: block;}
+	.side-nav-wrp .small-navbar{border-top: 1px solid rgba(255,255,255,0.3);padding:15px 0 0;}
+
+	/* **** Main slider **** */ 
+	.main-slider-wrp .slider-img img{height: 50vh;}
+	.main-slider-wrp .slider-block:after{height: 50vh;}
+	.main-slider-wrp .slider-block .slider-dt{position: relative;top: 0;left: 0;transform: unset;}
+	.main-slider-wrp .slider-block .slider-dt .slide-wrp h2{color: #000;font-size: 28px;margin: 25px 0 0;}
+	.main-slider-wrp .owl-dots{width: 88%;bottom: auto;top: 53%;left: 50%;transform: translate(-50%, 0);}
+	.main-slider-wrp .owl-dot{margin-right: 5px;}
+	.main-slider-wrp .owl-dot span{width: 30px;}
+	/* **** End Main slider **** */ 
+
+
+	/* **** product **** */
+	.grohe-title h2{font-size: 38px;text-align: center;}
+	.product-dt{margin: 0 0 50px;}
+	.product-wrp .product-block .product-dt a{display: block;text-align: center;}
+	/* **** End product **** */
+
+	/* **** Map **** */
+	.map-wrp .map-img{height: auto;padding: 30px 15px;}
+	.map-wrp .map-img .map-dt{width: 100%;background: #f7f7f7;padding: 15px;}
+	.map-wrp .map-img .map-dt h2{font-size: 22px;text-align: center;}
+	/* **** End Map **** */
+
+	/* ***** ***** */
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: 360px;margin: 0 0 30px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt h2{font-size: 20px;line-height: 33px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt .slider-btn{padding: 10px 30px;display: block;text-align: center;}
+	.stripe-wrp .stripe-bigbox .stripe-dt{width: 80%;}
+
+	.stripe-wrp .stripe-smallbox .stripe-img img{max-width: 100%;height: 360px;object-fit: cover;}
+	.stripe-wrp .stripe-smallbox .stripe-dt{width: 90%;left: 15px;}
+
+	/* **** **** */
+
+	/* **** Footer **** */
+	.footer-wrp .quicklink h3{margin: 0 0 10px;}
+	.footer-wrp .quicklink{margin: 20px 0 0;}
+	.footer-wrp .fot-ic{text-align: center;margin: 20px 0 0;}
+	.copyright .footer-navigation li{display: block;}
+	.copyright .footer-navigation .nav{display: block !important;flex-wrap:initial;}
+	.copyright .footer-navigation li:after{display: none;}
+	.copyright svg {float: none;margin: 25px auto 0;display: table;}
+	/* **** End Footer **** */
+
+	/* **** Product Page **** */
+	.siderbar-fix a{display: none;}
+	.product-overview .title-bx{padding: 60px 0 10px;}
+	.product-overview .title-bx h1{font-size: 24px;font-weight: 600;}
+	.product-overview .overview-left #accordion{margin: 20px 0 0;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li{float: none;width: 100%;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li:last-child{width: 100%;margin: 15px 0 0;}
+	.text{top: 100%;}
+	/* **** End Product Page **** */
+
+	/* **** Details **** */
+	.details-wrp .title-bix h2{font-size: 30px;margin: 50px 0 0;}
+	.product-box .add-wrp{float: none;margin: 20px 0 0;display: block;}
+	/* **** End Details **** */
+
+	/* **** Contact **** */
+	.main-wrp{padding:73px 0 0; }
+	.title02 h1{font-size: 22px;}
+	.title02 p{font-size: 14px;}
+	.contact-wrp .title02 h3{font-size: 18px;}
+	.contact-wrp .title02 a{font-size: 14px;}
+	.contact-wrp .message-wrp{padding: 25px 0 0;}
+	.contact-wrp label{font-size: 14px;}
+	.frm-box{width: 100%;}
+	.Security-sec .Security-block{width: 100%;}
+	.showroom-locator h3{font-size: 22px;}
+	.showroom-locator .addresh-dt p{font-size: 14px;}
+	.showroom-locator .contact-dt p{font-size: 14px;}
+	/* **** End Contact **** */
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 24px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 14px;}
+	/* **** End errorpage **** */
+
+	/* **** FAQ **** */
+	.faq-wrp .titlebar p{font-size: 15px;}
+	.faq-wrp .panel-title a{font-size: 15px;padding: 15px 40px 15px 0;}
+	.faq-wrp .panel-body p{font-size: 15px;}
+	/* **** End FAQ **** */
+
+	/* **** grohe-blue-pure-filtered-water **** */
+	.inner-banner-wrp img{height: 350px;}
+	.filtered-wrp .owl-dot span{width: 26px;}
+	.sigal-lever-mixer .text{top: 93%;}
+	.temperature-slider .tem-dt h2{font-size: 24px;margin: 15px auto 10px;}
+	.temperature-slider .tem-dt p{font-size: 14px;}
+	.temperature-slider-two .item{margin: 15px;}
+	/* **** End grohe-blue-pure-filtered-water **** */
+
+	/* **** Accuracy **** */
+	.accuracy-wrp{padding: 0;}
+	.title h3{font-size: 22px;line-height: 28px;}
+	.title p{font-size: 14px;}
+	.accuracy-wrp .acc-block .acc-dt h2{font-size: 20px;margin: 15px 0 10px;}
+	.accuracy-wrp .acc-block .acc-dt p{font-size: 14px;}
+	.title-plue h1{font-size: 24px;}
+	.video-block h3{font-size: 18px;}
+	.titleshap1 h2{font-size: 24px;}
+	.product-range-wrp .product-range-block .nav-tabs{padding: 0;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-item{float: left;width: 33.33%;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-link{padding: 10px 0 5px;font-size: 16px;display: table;}
+	.product-range-block .text{top: 90%;}
+	.text h2{font-size: 18px;}
+	.text p{font-size: 14px;}
+	.showroom-wrp .showroom-block h2{text-align: center;}
+	/* **** End Accuracy **** */
+
+	/* **** inpirations **** */
+	.inpirations-box .inpirations-img .img-dt{bottom: 0;}
+	.inpirations-box .inpirations-img .img-dt h3{font-size: 24px;}
+	.inpirations-box .inpirations-img .img-dt h4{font-size: 14px;}
+	.inpirations-dt a{font-size: 15px;}
+	/* **** End inpirations **** */
+
+	/* **** masters-of-technology **** */
+	.inner-banner01-wrp .banner-dt{left: 10%;}
+	.masters-dt h1{font-size: 23px;}
+	.masters-dt p{font-size: 14px;}
+	.masters-block ul li a{font-size: 14px;}
+	/* **** End masters-of-technology **** */
+
+	/* **** newsletter **** */
+	.newsletter-block .form-group{display: block !important;}
+	.newsletter-block .container{font-size: 14px;}
+	.titlebar01 p{font-size: 14px;}
+	.data-box{width: 100%;}
+	.newsletter-block p{font-size: 14px;}
+	/* **** newsletter **** */
+
+	/* **** notepad ***** */
+	.notepad-wrp .title03 h1{font-size: 24px;}
+	.notepad-wrp .title03 h4{font-size: 18px;}
+	.notepad-wrp .title03 p{font-size: 14px;}
+	.notepad-wrp .notped-block .nottitle h2 {font-size: 24px;}
+	.notepad-wrp .notped-block .nottitle h2 img{height: 30px;width: 30px;right: 0;}
+	.notepad-wrp .notped-block .nottitle h2 span{margin: 0;}
+	.notefrm .form-group{display: block;}
+	.notefrm .form-group .form-control{width: 100%;margin: 30px 0;}
+	#myModal .modal-dialog .mad-dt p{font-size: 14px;}
+	#myModal .modal-dialog .modal-content .btn-group{float: none;display: block;}
+	#myModal .modal-dialog .modal-content .btn-group .Reset-btn{display: table;margin: 0 0 20px;}
+	.functionality .functionality-block .functionality-box{min-height: auto;}
+	/* **** End notepad ***** */
+
+	/* **** references **** */
+	.references-frm-block ul li{width: 100%;}
+	.teaser-promo .teaser-promo-img img{height: 240px;}
+	.teaser-promo-dt{top: 10px;left: 10px;}
+	.teaser-promo-dt p{font-size: 16px;}
+	.teaser-promo-dt h4{font-size: 24px;}
+	/* **** End references **** */
+
+	/* **** Tapware **** */
+	.inner-banner-wrp .banner-dt{bottom: 250px;}
+	.inner-banner-wrp .banner-dt h2{font-size: 24px;}
+	.innertitle h1{font-size: 24px;}
+	.product-wrp .product-block .product-dt h4{font-size: 24px;}
+	/* **** End Tapware **** */
+
+	/* ***** Touchless-faucets ***** */
+	.touchless-wrp .touch-dt p{font-size: 14px;margin: 10px 0;}
+	.sdt p{font-size:14px;}
+	.hygienic-block .titlebar h1{font-size: 22px;}
+	.hygienic-block p{font-size: 14px;}
+	.sdt h1{font-size: 22px;}
+	/* ***** End Touchless-faucets ***** */
+
+	/* **** About **** */
+	.about-wrp .about-banner img{height: 50vh;object-fit: cover;}
+	.abt-dt{padding: 0 0 40px;}
+	.abt-dt p{font-size: 14px;}
+	/* **** About **** */
+}
+
+@media(max-width:447px){
+	.top-bar{display: none;}
+	.navbar{display: none;}
+	.moblie-menu{display: block;}
+	.side-nav-wrp .small-navbar{border-top: 1px solid rgba(255,255,255,0.3);padding:15px 0 0;}
+
+	/* **** Main slider **** */ 
+	.main-slider-wrp .slider-img img{height: 50vh;}
+	.main-slider-wrp .slider-block:after{height: 50vh;}
+	.main-slider-wrp .slider-block .slider-dt{position: relative;top: 0;left: 0;transform: unset;}
+	.main-slider-wrp .slider-block .slider-dt .slide-wrp h2{color: #000;font-size: 28px;margin: 25px 0 0;}
+	.main-slider-wrp .owl-dots{width: 88%;bottom: auto;top: 53%;left: 50%;transform: translate(-50%, 0);}
+	.main-slider-wrp .owl-dot{margin-right: 5px;}
+	.main-slider-wrp .owl-dot span{width: 30px;}
+	/* **** End Main slider **** */ 
+
+
+	/* **** product **** */
+	.grohe-title h2{font-size: 24px;text-align: center;}
+	.product-dt{margin: 0 0 50px;}
+	.titlebar h2{font-size: 24px;}
+	.product-wrp .product-block .product-dt a{display: block;text-align: center;}
+	/* **** End product **** */
+
+	/* **** Map **** */
+	.map-wrp .map-img{height: auto;padding: 30px 15px;}
+	.map-wrp .map-img .map-dt{width: 100%;background: #f7f7f7;padding: 15px;}
+	.map-wrp .map-img .map-dt h2{font-size: 22px;text-align: center;}
+	/* **** End Map **** */
+
+	/* ***** ***** */
+	.stripe-wrp .stripe-bigbox .stripe-img img{height: 360px;margin: 0 0 30px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt h2{font-size: 20px;line-height: 33px;}
+	.stripe-wrp .stripe-bigbox .stripe-dt .slider-btn{padding: 10px 30px;display: block;text-align: center;}
+	.stripe-wrp .stripe-bigbox .stripe-dt{width: 80%;}
+
+	.stripe-wrp .stripe-smallbox .stripe-img img{max-width: 100%;height: 360px;object-fit: cover;}
+	.stripe-wrp .stripe-smallbox .stripe-dt{width: 90%;left: 15px;}
+
+	/* **** **** */
+
+	/* **** Footer **** */
+	.footer-wrp .quicklink h3{margin: 0 0 10px;}
+	.footer-wrp .quicklink{margin: 20px 0 0;}
+	.footer-wrp .fot-ic{text-align: center;margin: 20px 0 0;}
+	.copyright .footer-navigation li{display: block;}
+	.copyright .footer-navigation .nav{display: block !important;flex-wrap:initial;}
+	.copyright .footer-navigation li:after{display: none;}
+	.copyright svg {float: none;margin: 25px auto 0;display: table;}
+	/* **** End Footer **** */
+
+
+	/* **** Product Page **** */
+	.siderbar-fix a{display: none;}
+	.product-overview .title-bx{padding: 60px 0 10px;}
+	.product-overview .title-bx h1{font-size: 24px;font-weight: 600;}
+	.product-overview .overview-left #accordion{margin: 20px 0 0;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li{float: none;width: 100%;}
+	.product-overview .overview-right .top-rightbar .Sort-by ul li:last-child{width: 100%;margin: 15px 0 0;}
+	/* **** End Product Page **** */
+
+	/* **** Details **** */
+	.details-wrp .title-bix h2{font-size: 22px;margin: 50px 0 0;}
+	.product-box .add-wrp{float: none;margin: 20px 0 0;display: block;}
+	/* **** End Details **** */
+
+
+	/* **** Contact **** */
+	.main-wrp{padding:73px 0 0; }
+	.title02 h1{font-size: 22px;}
+	.title02 p{font-size: 14px;}
+	.contact-wrp .title02 h3{font-size: 18px;}
+	.contact-wrp .title02 a{font-size: 14px;}
+	.contact-wrp .message-wrp{padding: 25px 0 0;}
+	.contact-wrp label{font-size: 14px;}
+	.frm-box{width: 100%;}
+	.Security-sec .Security-block{width: 100%;}
+	.showroom-locator h3{font-size: 22px;}
+	.showroom-locator .addresh-dt p{font-size: 14px;}
+	.showroom-locator .contact-dt p{font-size: 14px;}
+	/* **** End Contact **** */
+
+
+	/* **** errorpage **** */
+	.titlebar h1{font-size: 24px;padding: 20px 0;}
+	.errorpage-wrp .titlebar h4{font-size: 18px;line-height: 26px;}
+	.errorpage-wrp .titlebar p{font-size: 14px;}
+	/* **** End errorpage **** */
+
+	/* **** FAQ **** */
+	.faq-wrp .titlebar p{font-size: 14px;}
+	.faq-wrp .panel-title a{font-size: 14px;padding: 15px 40px 15px 0;}
+	.faq-wrp .panel-body p{font-size: 14px;}
+	/* **** End FAQ **** */
+
+
+	/* **** grohe-blue-pure-filtered-water **** */
+	.inner-banner-wrp img{height: 350px;}
+	.filtered-wrp .owl-dot span{width: 26px;}
+	.sigal-lever-mixer .text{top: 79%;}
+	.temperature-slider .tem-dt h2{font-size: 24px;margin: 15px 0 10px;}
+	.temperature-slider .tem-dt p{font-size: 14px;}
+	.inner-gallery .gallery-img img{margin: 0 auto 20px;}
+	/* **** End grohe-blue-pure-filtered-water **** */
+
+	/* **** Accuracy **** */
+	.accuracy-wrp{padding: 0;}
+	.title h3{font-size: 22px;line-height: 28px;}
+	.title p{font-size: 14px;}
+	.accuracy-wrp .acc-block .acc-dt h2{font-size: 20px;margin: 15px 0 10px;}
+	.accuracy-wrp .acc-block .acc-dt p{font-size: 14px;}
+	.title-plue h1{font-size: 24px;}
+	.video-block h3{font-size: 18px;}
+	.titleshap1 h2{font-size: 24px;}
+	.product-range-wrp .product-range-block .nav-tabs{padding: 0;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-item{float: left;width: 50%;}
+	.product-range-wrp .product-range-block .nav-tabs .nav-link{padding: 10px 0 5px;font-size: 16px;display: table;}
+	.text h2{font-size: 18px;}
+	.text p{font-size: 14px;}
+	.showroom-wrp .showroom-block h2{text-align: center;}
+	/* **** End Accuracy **** */
+
+	/* **** inpirations **** */
+	.inpirations-box .inpirations-img .img-dt{bottom: 0;}
+	.inpirations-box .inpirations-img .img-dt h3{font-size: 24px;}
+	.inpirations-box .inpirations-img .img-dt h4{font-size: 14px;}
+	.inpirations-dt a{font-size: 15px;}
+	/* **** End inpirations **** */
+
+
+	/* **** masters-of-technology **** */
+	.inner-banner01-wrp .banner-dt{left: 10%;}
+	.masters-dt h1{font-size: 23px;}
+	.masters-dt p{font-size: 14px;}
+	.masters-block ul li a{font-size: 14px;}
+	/* **** End masters-of-technology **** */
+
+	/* **** newsletter **** */
+	.newsletter-block .form-group{display: block !important;}
+	.newsletter-block .container{font-size: 14px;}
+	.titlebar01 p{font-size: 14px;}
+	.data-box{width: 100%;}
+	.newsletter-block p{font-size: 14px;}
+	/* **** newsletter **** */
+
+	/* **** notepad ***** */
+	.notepad-wrp .title03 h1{font-size: 24px;}
+	.notepad-wrp .title03 h4{font-size: 18px;}
+	.notepad-wrp .title03 p{font-size: 14px;}
+	.notepad-wrp .notped-block .nottitle h2 {font-size: 24px;}
+	.notepad-wrp .notped-block .nottitle h2 img{height: 30px;width: 30px;right: 0;}
+	.notepad-wrp .notped-block .nottitle h2 span{margin: 0;}
+	.notefrm .form-group{display: block;}
+	.notefrm .form-group .form-control{width: 100%;margin: 30px 0;}
+	#myModal .modal-dialog .mad-dt p{font-size: 14px;}
+	#myModal .modal-dialog .modal-content .btn-group{float: none;display: block;}
+	#myModal .modal-dialog .modal-content .btn-group .Reset-btn{display: table;margin: 0 0 20px;}
+	.functionality .functionality-block .functionality-box{min-height: auto;}
+	/* **** End notepad ***** */
+
+	/* **** references **** */
+	.references-frm-block ul li{width: 100%;}
+	.teaser-promo .teaser-promo-img img{height: auto;}
+	.teaser-promo-dt{top: 10px;left: 10px;}
+	.teaser-promo-dt p{font-size: 16px;}
+	.teaser-promo-dt h4{font-size: 24px;}
+	/* **** End references **** */
+
+	/* **** Tapware **** */
+	.inner-banner-wrp .banner-dt{bottom: 250px;}
+	.inner-banner-wrp .banner-dt h2{font-size: 24px;}
+	.innertitle h1{font-size: 24px;}
+	.product-wrp .product-block .product-dt h4{font-size: 24px;}
+	/* **** End Tapware **** */
+
+
+	/* ***** Touchless-faucets ***** */
+	.touchless-wrp .touch-dt p{font-size: 14px;margin: 10px 0;}
+	.sdt p{font-size:14px;}
+	.hygienic-block .titlebar h1{font-size: 22px;}
+	.hygienic-block p{font-size: 14px;}
+	.sdt h1{font-size: 22px;}
+	/* ***** End Touchless-faucets ***** */
+
+
+	/* **** About **** */
+	.about-wrp .about-banner img{height: 50vh;object-fit: cover;}
+	.abt-dt{padding: 0 0 40px;}
+	.abt-dt p{font-size: 14px;}
+	/* **** About **** */
+}
+
