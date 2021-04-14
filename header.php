@@ -43,7 +43,7 @@
                                         <div class="container">
                                             <div class="row">
 
-                                                <div class="col-sm-4 col-lg-3">
+                                                <div class="col-sm-5 col-lg-2">
                                                     <div class="droplinks">
                                                         <a href="wash-basins.php"><h5> Wash basins</h5></a>
                                                         <a class="dropdown-item" href="wash-basins.php">Table Top Basins <span></span> </a>
@@ -56,18 +56,18 @@
                                                         <a href="wash-basins.php"><h5>Faucet For Kitchen</h5></a>
                                                         <a class="dropdown-item" href="kitchen-taps.php">Kitchen Taps <span></span> </a>
                                                         <a class="dropdown-item" href="kitchen-sinks.php">Kitchen Sinks <span></span></a>
-                                                        <a class="dropdown-item" href="#">Kitchen Accessoires <span></span> </a>
+                                                        <!-- <a class="dropdown-item" href="#">Kitchen Accessoires <span></span> </a> -->
                                                     </div>
                                                 </div>
 
                                                 <!-- <div class="col-sm-4 col-lg-2">
                                                 </div> -->
-                                                 <div class="col-sm-4 col-lg-3">
+                                                 <div class="col-sm-5 col-lg-2">
                                                     <div class="droplinks">
                                                         <a href="#"><h5>Attico Accessories</h5></a>
                                                         <a class="dropdown-item" href="Accessories.php">Accessories <span></span> </a>
-                                                        <a class="dropdown-item" href="#">Seat Cover <span></span> </a>
-                                                        <a class="dropdown-item" href="#">Faucet <span></span></a>
+                                                        <a class="dropdown-item" href="seat-cover-Installation.php">Seat Cover <span></span> </a>
+                                                        <!-- <a class="dropdown-item" href="#">Faucet <span></span></a> -->
                                                     </div>
 
                                                     <div class="droplinks"> 
@@ -91,43 +91,58 @@
                                                 </div> -->
 
 
-                                                <div class="col-sm-4 col-lg-3">
-                                                    <div class="droplinks">
-                                                        <a href="#"><h5>Bathroom Accessories <span></span></h5></a>
-                                                        <div class="row">
-                                                            <div class="col-md-12 col-sm-12">
-                                                                <a class="dropdown-item" href="cistern.php">Concealed Cistern</a>
-                                                                <a class="dropdown-item" href="flush-plate.php">Concealed Tank Flush Plate </a>
-                                                                <a class="dropdown-item" href="3dflus.php">3D Flush Tank</a>
-                                                                <a class="dropdown-item" href="color-flush.php">Dual Color Flush Tank</a>
-                                                                <a class="dropdown-item" href="seat-cover-Installation.php ">Seat Cover Installation Instruction</a>
-                                                                <a class="dropdown-item" href="piece-fitting.php">One Piece Fitting</a>
-                                                                <a class="dropdown-item" href="didet.php">Didet</a>
-                                                                <a class="dropdown-item" href="baccessories.php">Accessories</a>
-                                                                <a class="dropdown-item" href="pan.php">Pan</a>
-                                                                <a class="dropdown-item" href="urinal.php"> Urinal</a>
-                                                                <a class="dropdown-item" href="bath-tub.php"> Bath Tub</a>
-                                                            </div>
-                                                            <!-- <div class="col-md-6 col-sm-6">
-                                                                <a class="dropdown-item" href="#">Alina </a>
-                                                                <a class="dropdown-item" href="#">Alma</a>
-                                                                <a class="dropdown-item" href="#">Angela </a>
-                                                                <a class="dropdown-item" href="#">Alexander </a>
-                                                            </div> -->
-                                                        </div>
+                                                <div class="col-sm-5 col-lg-2">
+                                                <div class="droplinks">
+                                                        <a href="#"><h5>Flush Tank</h5></a>
+                                                        <a class="dropdown-item" href="3dflus.php">3D Flush Tank <span></span> </a>
+                                                        <a class="dropdown-item" href="color-flush.php">Dual Color Flush Tank<span></span> </a>
+                                                        <a class="dropdown-item" href="cistern.php">Concealed Cistern<span></span> </a>
+                                                        <!-- <a class="dropdown-item" href="#">Faucet <span></span></a> -->
                                                     </div>
+                                                    <div class="menulinks">
+                                                        <a href="bath-tub.php"><h5>Bath Tub <span></span></h5></a>
+                                                        </div>
+                                                        <div class="menulinks">
+                                                        <a href="urinal.php"><h5>Urinal <span></span></h5></a>
+                                                        </div>
+                                                        <div class="menulinks">
+                                                        <a href="pan.php"><h5>Pan <span></span></h5></a>
+                                                        </div>
                                                 </div>
 
-                                               <!--   <div class="col-sm-4 col-lg-4">
-                                                    <a href="wall-hang-closet.php"><h5>Closet</h5></a>
-                                                    <a href="pan.php"><h5> Pan</h5></a>
-                                                    <a href="urinal.php"><h5> Urinal</h5></a>
-                                                    <a href="bath-tub.php"><h5> Bath Tub</h5></a>
-                                                </div> -->
+                                                <div class="col-sm-5 col-lg-3">
+                                                <div class="droplinks">
+                                                        <a href="#"><h5>Bathroom Accessories</h5></a>
+                                                        <div class="row">
+                                                            <div class="col-md-4 col-sm-4">
+                                                                <a class="dropdown-item" href="gla.php">Adele</a>
+                                                                <a class="dropdown-item" href="lucia.php">Agne </a>
+                                                                <a class="dropdown-item" href="spogo.php">Amelie</a>
+                                                                <a class="dropdown-item" href="sfera.php">Alice</a>
+                                                                <a class="dropdown-item" href="fijian.php">Alina</a>
+                                                                <a class="dropdown-item" href="ptrsian.php">Alma</a>
+                                                                <a class="dropdown-item" href="alora.php">Angela</a>
+                                                                <a class="dropdown-item" href="agnese.php">Alexandra</a>
+                                                            </div>
+                                                            <div class="col-md-4 col-sm-4">
+                                                                <a class="dropdown-item" href="aida.php">Anjelina Brass</a>
+                                                                <a class="dropdown-item" href="alberto.php">Anika Brass</a>
+                                                                <a class="dropdown-item" href="aldo.php">Anne Brass</a>
+                                                                <a class="dropdown-item" href="alex.php">Anteonia Brass</a>
+                                                                <a class="dropdown-item" href="alfonso.php">Anni Brass</a>
+                                                                <a class="dropdown-item" href="amedeo.php">Mensola</a>
+                                                               
+                                                            </div>
+                                                        </div>
+                                                        <!-- <a class="dropdown-item" href="#">Faucet <span></span></a> -->
+                                                    </div>
+                                                    
+                                                </div>
+                                
 
-                                                <div class="col-sm-4 col-lg-3">
+                                                <div class="col-sm-5 col-lg-2">
                                                     <div class="droplinks">
-                                                        <a href="#"><h5>Faucet<span>(116)</span></h5></a>
+                                                        <a href="#"><h5>Faucet<span></span></h5></a>
                                                         <div class="row">
                                                             <div class="col-md-4 col-sm-4">
                                                                 <a class="dropdown-item" href="gla.php">Gla</a>
